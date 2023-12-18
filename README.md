@@ -1,4 +1,4 @@
-# Endoscopy_UC_CD_Classification
+# Endoscopy Esophagitics and Ulcerative Colitis Classification
 
 ## Overview
 This project develops a Convolutional Neural Network (CNN) to classify endoscopic images, focusing on distinguishing between esophagitis (a manifestation of Crohn's disease) and ulcerative colitis. Though similar in symptoms, these conditions have different treatment approaches. Accurate and swift classification can aid significantly in diagnosis and treatment.
